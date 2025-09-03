@@ -1,53 +1,91 @@
-👋 Hi, I'm Khushi Bansal
-💻 Software Developer | 🎓 Topper @ GGSIPU | 💡 Tech Enthusiast
-🧠 About Me
+<h1 align="center">👋 Hi, I'm Khushi Bansal</h1>  
 
-🎓 B.Tech in Computer Science Engineering
+<h3 align="center">💻 Software Developer | 🎓 Topper @ GGSIPU | 💡 Tech Enthusiast</h3>  
 
-🥇 1st Rank in College | 18th Rank in University (GGSIPU)
+---
 
-🌟 Passionate about Web Development, AI, and Building Impactful Solutions
+## 🧠 About Me  
 
-💼 Currently Interning at Opsight AI Pvt. Ltd.
+- 🎓 B.Tech in Computer Science Engineering  
+- 🥇 1st Rank in College | 18th Rank in University (GGSIPU)  
+- 🌟 Passionate about Web Development, AI, and Building Impactful Solutions  
+- 💼 Currently Interning at **Opsight AI Pvt. Ltd.**  
 
-🛠️ Tech Stack
+---
 
-Frontend:
-React Next.js HTML5 CSS3 Tailwind Bootstrap JavaScript
+## 🛠️ Tech Stack  
 
-Backend:
-Node.js Express.js MongoDB JWT Bcrypt Prisma
+**Frontend:**  
+`React` `Next.js` `HTML5` `CSS3` `Tailwind` `Bootstrap` `JavaScript`  
 
-Tools & Platforms:
-Git & GitHub Postman Vercel MongoDB Atlas
+**Backend:**  
+`Node.js` `Express.js` `MongoDB` `JWT` `Bcrypt` `Prisma`  
 
-🚀 Projects
+**Tools & Platforms:**  
+`Git & GitHub` `Postman` `Vercel` `MongoDB Atlas`  
 
-👑 RANI - Real-time Alert and Navigation Interface
-A women safety web app that alerts emergency contacts and nearby users.
+---
 
-🧠 IQ Boost Platform
-A React + MongoDB platform for mentally challenged students to enhance cognitive skills.
+## 🚀 Projects  
 
-📦 Electronics E-commerce Website
-Full-stack B2B + B2C electronics store with admin panel and secure login system.
+- **👑 RANI - Real-time Alert and Navigation Interface**  
+  *A women safety web app that alerts emergency contacts and nearby users.*  
 
-🔐 Employee Management System
-Role-based dashboards for employees and admins with task tracking.
+- **🧠 IQ Boost Platform**  
+  *A React + MongoDB platform for mentally challenged students to enhance cognitive skills.*  
 
-Want to see more? Check out my repositories 👇
+- **📦 Electronics E-commerce Website**  
+  *Full-stack B2B + B2C electronics store with admin panel and secure login system.*  
 
-📊 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=KhushiBansal&show_icons=true&theme=radical" alt="GitHub Stats" height="165"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KhushiBansal&layout=compact&theme=radical" alt="Top Languages" height="165"/> </p> <p align="center"> <img src="https://streak-stats.demolab.com?user=KhushiBansal&theme=radical" alt="GitHub Streak" height="165"/> </p>
-📈 Profile Views
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=KhushiBansal&label=Profile%20views&color=ff69b4&style=flat" alt="Profile Views"/> </p>
-📫 Let's Connect!
+- **🔐 Employee Management System**  
+  *Role-based dashboards for employees and admins with task tracking.*  
 
-📧 Email: khushibansal787@gmail.com
+> Want to see more? Check out my repositories 👇  
 
-💼 LinkedIn
+---
 
-🌐 Portfolio Website
- (Coming Soon)
+## 📊 GitHub Stats  
+
+<p align="center">  
+  <img src="https://github-readme-stats.vercel.app/api?username=KhushiBansal&show_icons=true&theme=radical" alt="GitHub Stats" height="165"/>  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KhushiBansal&layout=compact&theme=radical" alt="Top Languages" height="165"/>  
+</p>  
+
+---
+
+## 🔥 GitHub Streak  
+
+<p align="center">  
+  <img src="https://streak-stats.demolab.com?user=KhushiBansal&theme=radical" alt="GitHub Streak" height="165"/>  
+</p>  
+
+---
+
+## 📈 Contribution Graph  
+
+<p align="center">  
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KhushiBansal&theme=react-dark&hide_border=true" alt="Contribution Graph"/>  
+</p>  
+
+---
+
+## 👀 Profile Views  
+
+<p align="center">  
+  <img src="https://komarev.com/ghpvc/?username=KhushiBansal&label=Profile%20views&color=ff69b4&style=flat" alt="Profile Views"/>  
+</p>  
+
+---
+
+## 📫 Let's Connect!  
+
+<p align="center">  
+  📧 **Email:** khushibansal787@gmail.com <br/>  
+  💼 <a href="https://www.linkedin.com/in/khushi-bansal-3ba067263">LinkedIn</a> | 🌐 Portfolio *(Coming Soon)*  
+</p>  
+
+---
+
+<h3 align="center">⭐ Thanks for visiting! Don't forget to star 🌟 your favorite repositories!</h3>
 
 ⭐ Thanks for visiting! Don't forget to star 🌟 your favorite repositories!
