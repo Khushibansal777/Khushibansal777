@@ -8,7 +8,7 @@
 - 🎓 B.Tech in Computer Science Engineering  
 - 🥇 1st Rank in College | 18th Rank in University (GGSIPU)  
 - 🌟 Passionate about Web Development, AI, and Building Impactful Solutions  
-- 💼 Currently Interning at **Opsight AI Pvt. Ltd.**  
+- 💼 Ex-Intern at **Opsight AI Pvt. Ltd.**  
 
 ---
 
@@ -21,7 +21,7 @@
 `Node.js` `Express.js` `MongoDB` `JWT` `Bcrypt` `Prisma`  
 
 **Tools & Platforms:**  
-`Git & GitHub` `Postman` `Vercel` `MongoDB Atlas`  
+`Git & GitHub` `Postman` `Vercel` `MongoDB Atlas` `Render` `Railway`
 
 ---
 
