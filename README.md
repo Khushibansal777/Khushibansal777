@@ -63,8 +63,8 @@
 ## 📫 Let's Connect!  
 
 <p align="center">  
-  📧 **Email:** khushibansal787@gmail.com <br/>  
-  💼 <a href="https://www.linkedin.com/in/khushi-bansal-3ba067263">LinkedIn</a> | 🌐 <a href="https://portfolio-nine-sand-40.vercel.app/>Portfolio</a> 
+  📧 **Email:** khushibansal787@gmail.com
+  💼 <a href="https://www.linkedin.com/in/khushi-bansal-3ba067263">LinkedIn</a>  <br/>  🌐 <a href="https://portfolio-nine-sand-40.vercel.app/>Portfolio</a> 
 </p>  
 
 ---
