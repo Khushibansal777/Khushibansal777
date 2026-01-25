@@ -60,13 +60,15 @@
 
 ---
 
-## 📫 Let's Connect!  
+## 📫 Let's Connect!
 
-<p align="center">  
-  📧 **Email:** khushibansal787@gmail.com
-  💼 <a href="https://www.linkedin.com/in/khushi-bansal-3ba067263">LinkedIn</a>  <br/>  🌐 <a href="https://portfolio-nine-sand-40.vercel.app/>Portfolio</a> 
-</p>  
+<p align="center">
+  📧 <b>Email:</b> <a href="mailto:khushibansal787@gmail.com">khushibansal787@gmail.com</a> <br/>
+  💼 <a href="https://www.linkedin.com/in/khushi-bansal-3ba067263">LinkedIn</a> &nbsp; | &nbsp;
+  🌐 <a href="https://portfolio-nine-sand-40.vercel.app/">Portfolio</a>
+</p>
 
 ---
 
 <h3 align="center">⭐ Thanks for visiting! Don't forget to star 🌟 your favorite repositories!</h3>
+
