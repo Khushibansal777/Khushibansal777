@@ -42,15 +42,6 @@
 
 ---
 
-## 🔥 GitHub Streak  
-
-<p align="center">  
-  <img src="https://streak-stats.demolab.com?user=Khushibansal777&theme=radical" alt="GitHub Streak"/>  
-</p>  
-
----
-
-
 
 ## 👀 Profile Views  
 
