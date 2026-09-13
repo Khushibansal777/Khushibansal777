@@ -1,9 +1,9 @@
 <h1 align="center">👋 Hi, I'm Khushi Bansal</h1>  
-<h3 align="center">💻 Software Developer | 🏆 University Rank 18 @ GGSIPU | 🚀 Full Stack Developer</h3>  
+<h3 align="center"> Software Developer | 🏆 University Rank 18 @ GGSIPU | Full Stack Developer</h3>  
 
 ---
 
-## 🧠 About Me
+## About Me
 
 * 🎓 B.Tech in Computer Science Engineering from HMR Institute of Technology and Management (HMRITM)
 * 🥇 1st Rank in College | 18th Rank in GGSIPU | CGPA - 9.58
@@ -90,4 +90,4 @@
 
 ---
 
-<h3 align="center">⭐ Thanks for visiting! Feel free to explore my repositories and connect with me 🚀</h3>
+<h3 align="center">⭐ Thanks for visiting! Feel free to explore my repositories and connect with me !</h3>
